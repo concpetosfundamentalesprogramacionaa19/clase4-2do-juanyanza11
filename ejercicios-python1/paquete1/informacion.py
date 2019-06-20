@@ -2,4 +2,4 @@
     @reroes
 """
 
-valores = [1, 2, 8, 9]
+valores = [1, 2, 8, 9] #lista

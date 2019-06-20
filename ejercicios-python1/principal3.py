@@ -5,12 +5,13 @@
 
 lista = ["Loja", "Cuenca"]
 lista2 = ["Loja", "Azuay"]
+lista.append("Zamora") #AGREGAR A lista ZAMORA
 
-print("Imprimir lista ")
+print("Imprimir lista: ")
 for l in lista:
     print(l)
 
-print("Imprimir lista2 ")
+print("Imprimir lista2: ")
 for l in lista2:
     print(l)
 
